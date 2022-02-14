@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g -Wl,--enable-auto-import CMakeFiles/file.dir/tasks/pass.c.o -o file.exe -Wl,--out-implib,libfile.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,109 @@
+18
+ChristoffersPC
+gulerod
+pizza
+citron
+brød
+yogurt
+bøf
+squash
+juice
+peanutbutter
+havremælk
+pølse
+mælk
+humus
+æble
+kaffe
+Iphone
+Johannes
+16
+0
+24
+0
+28
+1
+4
+0
+0
+15
+15
+20
+27
+2
+0
+7
+6
+6
+11
+11
+11
+11
+11
+12
+12
+12
+12
+12
+12
+12
+12
+1
+2
+11
+9
+6
+2013
+2021
+2021
+2021
+2021
+2021
+2021
+2021
+2021
+2021
+2021
+2021
+2021
+2022
+2022
+2022
+2024
+3030
+Others
+Fruit_and_vegetables
+Bakery
+Fruit_and_vegetables
+Bakery
+Dairy
+Meat
+Fruit_and_vegetables
+Fruit_and_vegetables
+Vegan
+Vegan
+Meat
+Dairy
+Vegan
+Fruit_and_vegetables
+Others
+Others
+Others
+Produkt ChristoffersPC, udløbsdato: 16/11/2013 tid til udløb: 11 dag(e), -9 måned(er) og 0 år
+Produkt gulerod, udløbsdato: 0/11/2021 tid til udløb: 10 dag(e), -1 måned(er) og 0 år
+Produkt pizza, udløbsdato: 24/11/2021 tid til udløb: 11 dag(e), -1 måned(er) og 0 år
+Produkt citron, udløbsdato: 0/11/2021 tid til udløb: 10 dag(e), -1 måned(er) og 0 år
+Produkt brød, udløbsdato: 28/11/2021 tid til udløb: 11 dag(e), -1 måned(er) og 0 år
+Produkt yogurt, udløbsdato: 1/12/2021 tid til udløb: 11 dag(e), -1 måned(er) og 0 år
+Produkt bøf, udløbsdato: 4/12/2021 tid til udløb: 0 dag(e), 0 måned(er) og 0 år
+Produkt squash, udløbsdato: 0/12/2021 tid til udløb: 11 dag(e), -1 måned(er) og 0 år
+Produkt juice, udløbsdato: 0/12/2021 tid til udløb: 11 dag(e), -1 måned(er) og 0 år
+Produkt peanutbutter, udløbsdato: 15/12/2021 tid til udløb: 0 dag(e), 0 måned(er) og 0 år
+Produkt havremælk, udløbsdato: 15/12/2021 tid til udløb: 0 dag(e), 0 måned(er) og 0 år
+Produkt pølse, udløbsdato: 20/12/2021 tid til udløb: 0 dag(e), 0 måned(er) og 0 år
+Produkt mælk, udløbsdato: 27/12/2021 tid til udløb: 0 dag(e), 0 måned(er) og 0 år
+Produkt humus, udløbsdato: 2/1/2022 tid til udløb: 0 dag(e), 0 måned(er) og 0 år
+Produkt æble, udløbsdato: 0/2/2022 tid til udløb: 1 dag(e), 0 måned(er) og 0 år
+Produkt kaffe, udløbsdato: 7/11/2022 tid til udløb: 11 dag(e), 0 måned(er) og 0 år
+Produkt Iphone, udløbsdato: 6/9/2024 tid til udløb: 9 dag(e), 2 måned(er) og 0 år
+Produkt Johannes, udløbsdato: 6/6/3030 tid til udløb: 6 dag(e), 1008 måned(er) og 0 år

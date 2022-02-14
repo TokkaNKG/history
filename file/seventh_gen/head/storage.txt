@@ -1,0 +1,157 @@
+26
+pizza
+smør
+yogurt
+løberen
+bøf
+brød
+kål
+havremælk
+peanutbutter
+squash
+Humus
+pølse
+juice
+ost
+humus
+citron
+mælk
+banan
+snøfler
+æble
+havremælk
+syltetøj
+kaffe
+Iphone
+jetski
+Johannes
+13
+21
+1
+3
+4
+7
+13
+15
+15
+18
+19
+20
+27
+31
+2
+9
+25
+26
+4
+14
+6
+28
+7
+6
+27
+6
+12
+1
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+1
+1
+1
+1
+2
+2
+3
+6
+11
+9
+5
+6
+2020
+2021
+2021
+2021
+2021
+2021
+2021
+2021
+2021
+2021
+2021
+2021
+2021
+2021
+2022
+2022
+2022
+2022
+2022
+2022
+2022
+2022
+2022
+2024
+2031
+3030
+Expired
+Expired
+Expired
+Expired
+Expired
+Expired
+Expired
+Expired
+Expired
+Expired
+Expired
+Expired
+Expired
+Expired
+Expired
+Expired
+Expiring_soon
+Fruit_and_vegetables
+Bakery
+Fruit_and_vegetables
+Vegan
+Fruit_and_vegetables
+Others
+Others
+Meat
+Others
+Produkt pizza, udløbsdato: 13/12/2020 tid til udløb: 20 dag(e), 10 måned(er) og -2 år
+Produkt smør, udløbsdato: 21/1/2021 tid til udløb: 29 dag(e), 11 måned(er) og -2 år
+Produkt yogurt, udløbsdato: 1/12/2021 tid til udløb: 8 dag(e), 10 måned(er) og -1 år
+Produkt løberen, udløbsdato: 3/12/2021 tid til udløb: 10 dag(e), 10 måned(er) og -1 år
+Produkt bøf, udløbsdato: 4/12/2021 tid til udløb: 11 dag(e), 10 måned(er) og -1 år
+Produkt brød, udløbsdato: 7/12/2021 tid til udløb: 14 dag(e), 10 måned(er) og -1 år
+Produkt kål, udløbsdato: 13/12/2021 tid til udløb: 20 dag(e), 10 måned(er) og -1 år
+Produkt havremælk, udløbsdato: 15/12/2021 tid til udløb: 22 dag(e), 10 måned(er) og -1 år
+Produkt peanutbutter, udløbsdato: 15/12/2021 tid til udløb: 22 dag(e), 10 måned(er) og -1 år
+Produkt squash, udløbsdato: 18/12/2021 tid til udløb: 25 dag(e), 10 måned(er) og -1 år
+Produkt Humus, udløbsdato: 19/12/2021 tid til udløb: 26 dag(e), 10 måned(er) og -1 år
+Produkt pølse, udløbsdato: 20/12/2021 tid til udløb: 27 dag(e), 10 måned(er) og -1 år
+Produkt juice, udløbsdato: 27/12/2021 tid til udløb: 4 dag(e), 11 måned(er) og -1 år
+Produkt ost, udløbsdato: 31/12/2021 tid til udløb: 8 dag(e), 11 måned(er) og -1 år
+Produkt humus, udløbsdato: 2/1/2022 tid til udløb: 10 dag(e), 11 måned(er) og -1 år
+Produkt citron, udløbsdato: 9/1/2022 tid til udløb: 17 dag(e), 11 måned(er) og -1 år
+Produkt mælk, udløbsdato: 25/1/2022 tid til udløb: 2 dag(e), 0 måned(er) og 0 år
+Produkt banan, udløbsdato: 26/1/2022 tid til udløb: 3 dag(e), 0 måned(er) og 0 år
+Produkt snøfler, udløbsdato: 4/2/2022 tid til udløb: 12 dag(e), 0 måned(er) og 0 år
+Produkt æble, udløbsdato: 14/2/2022 tid til udløb: 22 dag(e), 0 måned(er) og 0 år
+Produkt havremælk, udløbsdato: 6/3/2022 tid til udløb: 11 dag(e), 1 måned(er) og 0 år
+Produkt syltetøj, udløbsdato: 28/6/2022 tid til udløb: 5 dag(e), 5 måned(er) og 0 år
+Produkt kaffe, udløbsdato: 7/11/2022 tid til udløb: 15 dag(e), 9 måned(er) og 0 år
+Produkt Iphone, udløbsdato: 6/9/2024 tid til udløb: 14 dag(e), 7 måned(er) og 2 år
+Produkt jetski, udløbsdato: 27/5/2031 tid til udløb: 4 dag(e), 4 måned(er) og 9 år
+Produkt Johannes, udløbsdato: 6/6/3030 tid til udløb: 14 dag(e), 4 måned(er) og 1008 år
